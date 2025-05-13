@@ -3,7 +3,8 @@ library('stylo')
 
 setwd(getwd())
 
-classify(corpus.format = "plain",
+classify(gui = FALSE,
+corpus.format = "plain",
 corpus.lang = "English.all",
 analyzed.features = "w",
 ngram.size = 1,

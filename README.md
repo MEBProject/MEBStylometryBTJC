@@ -10,4 +10,4 @@ The file classify.R can be run from the command line in linux using ./classify.R
 Please note that this should be run with the sub-directories primary_set and secondary_set directly beneath your current working directory
 
 The program produces several output files, the main one being final_results.txt which shows a list of the BTJC chapters and its most likely author.
-There is also wordlist.txt, this gives the 5000 most frequent words across the corpus of which we're using the first 1000, also included are the frequency distance tables for the Cosine distance between the novels, the main one being distance_table_1000mfw_0c.txt
+There is also wordlist.txt, this gives the 5000 most frequent words across the corpus of which we're using the first 1000 words. Also included are the frequency distance tables for the Cosine distance between the novels, the main one being distance_table_1000mfw_0c.txt

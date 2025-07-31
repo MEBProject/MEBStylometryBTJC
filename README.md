@@ -11,3 +11,5 @@ Please note that this should be run with the sub-directories primary_set and sec
 
 The program produces several output files, the main one being final_results.txt which shows a list of the BTJC chapters and its most likely author.
 There is also wordlist.txt, this gives the 5000 most frequent words across the corpus of which we're using the first 1000 words. Also included are the frequency distance tables for the Cosine distance between the novels, the main one being distance_table_1000mfw_0c.txt
+
+The results from our analysis can be found in the file https://github.com/MEBProject/MEBStylometryBTJC/blob/master/Cosine-Distance-Table/MEB-Projectcosine_distance_table1000MFW.xlsx 
